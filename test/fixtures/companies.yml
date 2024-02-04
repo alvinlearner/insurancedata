@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  rate: 1
+  excessprotector: 1
+  pvt: 1
+  lossofuse: 1
+  pcf: 1
+  itl: 1
+  stampduty: 1
+
+two:
+  name: MyString
+  rate: 1
+  excessprotector: 1
+  pvt: 1
+  lossofuse: 1
+  pcf: 1
+  itl: 1
+  stampduty: 1
