@@ -5,7 +5,7 @@ class AdminsController < ApplicationController
     end
     
     def index
-       render @admin = Admin.all 
+       render json: @admin = Admin.all 
     end
 
     # def create
