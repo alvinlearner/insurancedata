@@ -36,7 +36,7 @@ class CompaniesController < ApplicationController
     private
   
     def company_params
-      params.permit(:name, :rate, :excessprotector, :pvt, :lossofuse, :pcf, :itl, :stampduty)
+      params.permit(:organization, :rate, :excessprotector, :pvt, :lossofuse, :pcf, :itl, :stampduty)
     end
   
     def render_not_found_response
