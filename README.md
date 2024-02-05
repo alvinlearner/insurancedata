@@ -1,24 +1,12 @@
-# README
+## Insurance API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Resource:
+ `https://insurance-xgcq.onrender.com`
 
-Things you may want to cover:
+### endpoints
 
-* Ruby version
+- `/clients`
+- `/transactions`
+- `/companies`
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
