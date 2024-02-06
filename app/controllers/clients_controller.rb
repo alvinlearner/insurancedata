@@ -38,13 +38,7 @@ class ClientsController < ApplicationController
       end
     
     
-      # PATCH /clients/:id/like
-      def increment_likes
-        client = find_client
-          client.update(likes: client.likes + 1)
-          render json: client 
-       
-      end
+
     
       # DELETE /clients/:id
       def destroy
