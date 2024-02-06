@@ -38,13 +38,7 @@
      
 #   end
 
-#   # PATCH /transactions/:id/like
-#   def increment_likes
-#     transaction = find_transaction
-#       transaction.update(likes: transaction.likes + 1)
-#       render json: transaction 
-   
-#   end
+
 
 #   # DELETE /transactions/:id
 #   def destroy
